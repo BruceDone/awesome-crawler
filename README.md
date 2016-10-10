@@ -1,11 +1,18 @@
-# Awesome-crawler [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Awesome-crawler ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 A collection of awesome web crawler,spider and resources in different language
 
 ## Python 
 * [Scrapy](http://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
+* [Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
+* [feedparser](http://pythonhosted.org/feedparser/) - Universal feed parser.
+* [Grab](http://grablib.org/) - Site scraping framework.
+* [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
+* [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
+* [MSpider](https://github.com/manning23/MSpider) - A simple ,easy spider using gevent and js render. 
+
 
 ## JavaScript
 * [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.

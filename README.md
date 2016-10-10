@@ -24,6 +24,12 @@ A collection of awesome web crawler,spider and resources in different language
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.
 * [JSoup](http://jsoup.org/) - Scrapes, parses, manipulates and cleans HTML.
 * [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - Website-Specific Processors for HTML INformation eXtraction.
+* [Open Search Server](http://www.opensearchserver.com/) - A full set of search functions. Build your own indexing strategy. Parsers extract full-text data. The crawlers can index everything.
+* [Gecco](https://github.com/xtuhcy/gecco) - A easy to use lightweight web crawler
+* [WebCollector](https://github.com/CrawlScript/WebCollector) - Simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
+* [Webmagic](https://github.com/code4craft/webmagic) - A scalable crawler framework.
+* [Heritrix3](https://github.com/internetarchive/heritrix3) -  Extensible, web-scale, archival-quality web crawler project.
+* [SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler) - An agile, distributed crawler framework.
 
 ## C# 
 * [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extention of web content categorizer, which can saparate between the web page depending on their content.
@@ -34,7 +40,7 @@ A collection of awesome web crawler,spider and resources in different language
 ## PHP
 * [dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 * [pspider](https://github.com/hightman/pspider) - Parallel web crawler written in PHP.
-* [php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider 
+* [php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 
 ## C++
 * [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++. 

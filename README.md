@@ -38,6 +38,8 @@ A collection of awesome web crawler,spider and resources in different language
 
 
 ## PHP
+* [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.
+    * [laravel-goutte](https://github.com/dweidner/laravel-goutte) - Laravel 5 Facade for Goutte.
 * [dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 * [pspider](https://github.com/hightman/pspider) - Parallel web crawler written in PHP.
 * [php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.

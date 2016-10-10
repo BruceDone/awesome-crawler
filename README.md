@@ -14,7 +14,7 @@ A collection of awesome web crawler,spider and resources in different language
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
 * [MSpider](https://github.com/manning23/MSpider) - A simple ,easy spider using gevent and js render. 
 
-# Java
+## Java
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.
 * [JSoup](http://jsoup.org/) - Scrapes, parses, manipulates and cleans HTML.
@@ -30,6 +30,7 @@ A collection of awesome web crawler,spider and resources in different language
 * [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extention of web content categorizer, which can saparate between the web page depending on their content.
 * [SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) - Simple spider base on mutithreading, regluar expression.
 * [Abot](https://github.com/sjdirect/abot) - C# web crawler built for speed and flexibility.
+* [Hawk](https://github.com/ferventdesert/Hawk) - Advanced Crawler and ETL tool written in C#/WPF.
 
 ## JavaScript
 * [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.

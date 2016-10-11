@@ -52,8 +52,13 @@ A collection of awesome web crawler,spider and resources in different language
 * [RubyRetriever](https://github.com/joenorton/rubyretriever) - RubyRetriever is a Web Crawler, Scraper & File Harvester.
 
 ## Go
+* [pholcus](https://github.com/henrylee2cn/pholcus) -  A distributed, high concurrency and powerful web crawler.
 * [gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
 * [fetchbot](https://github.com/PuerkitoBio/fetchbot) - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
+* [go_spider](https://github.com/hu17889/go_spider) - An awesome Go concurrent Crawler(spider) framework. 
+* [dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
+* [ants-go](https://github.com/wcong/ants-go) - A open source, distributed, restful crawler engine in golang.
+
 
 ## Scala
 * [crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling.

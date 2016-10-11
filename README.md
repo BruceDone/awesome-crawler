@@ -2,7 +2,7 @@
 A collection of awesome web crawler,spider and resources in different language
 
 ## Python 
-* [Scrapy](http://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
+* [Scrapy](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.

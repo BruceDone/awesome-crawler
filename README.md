@@ -53,7 +53,10 @@ A collection of awesome web crawler,spider and resources in different language
 * [php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 
 ## C++
-* [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++. 
+* [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++.
+
+## C
+* [httrack](https://github.com/xroche/httrack) - Copy websites to your computer.
 
 ## Ruby
 * [upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS(Or do more).

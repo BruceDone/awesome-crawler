@@ -14,6 +14,7 @@ A collection of awesome web crawler,spider and resources in different language
 * [crawley](https://github.com/jmg/crawley) - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
 * [MSpider](https://github.com/manning23/MSpider) - A simple ,easy spider using gevent and js render. 
+* [brownant](https://github.com/douban/brownant) - A lightweight web data extracting framework.
 
 ## Java
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.

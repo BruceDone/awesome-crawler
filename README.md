@@ -33,6 +33,7 @@ A collection of awesome web crawler,spider and resources in different language
 * [SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) - Simple spider base on mutithreading, regluar expression.
 * [Abot](https://github.com/sjdirect/abot) - C# web crawler built for speed and flexibility.
 * [Hawk](https://github.com/ferventdesert/Hawk) - Advanced Crawler and ETL tool written in C#/WPF.
+* [SkyScraper](https://github.com/JonCanning/SkyScraper) - An asynchronous web scraper / web crawler using async / await and Reactive Extensions.
 
 ## JavaScript
 * [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.

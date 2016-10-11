@@ -65,6 +65,9 @@ A collection of awesome web crawler,spider and resources in different language
 ## R
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R.
 
+## Erlang 
+* [ebot](https://github.com/matteoredaelli/ebot) - A scalable, distribuited and highly configurable web cawler.
+
 ## Go
 * [pholcus](https://github.com/henrylee2cn/pholcus) -  A distributed, high concurrency and powerful web crawler.
 * [gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.

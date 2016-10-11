@@ -55,6 +55,7 @@ A collection of awesome web crawler,spider and resources in different language
 ## Ruby
 * [wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 * [RubyRetriever](https://github.com/joenorton/rubyretriever) - RubyRetriever is a Web Crawler, Scraper & File Harvester.
+* [upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS(Or do more).
 
 ## Go
 * [pholcus](https://github.com/henrylee2cn/pholcus) -  A distributed, high concurrency and powerful web crawler.

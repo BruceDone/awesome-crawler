@@ -60,6 +60,7 @@ A collection of awesome web crawler,spider and resources in different language
 * [wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 * [RubyRetriever](https://github.com/joenorton/rubyretriever) - RubyRetriever is a Web Crawler, Scraper & File Harvester.
 * [Spidr](https://github.com/postmodern/spidr) - Spider a site ,multiple domains, certain links or infinitely.
+* [Cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options, standalone or using sidekiq.
 
 ## R
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R.

@@ -36,10 +36,11 @@ A collection of awesome web crawler,spider and resources in different language
 * [SkyScraper](https://github.com/JonCanning/SkyScraper) - An asynchronous web scraper / web crawler using async / await and Reactive Extensions.
 
 ## JavaScript
+* [scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper.
+* [scrape-it](https://github.com/IonicaBizau/scrape-it) - A Node.js scraper for humans.
 * [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 * [node-crawler](https://github.com/bda-research/node-crawler) - Node-crawler has clean,simple api.
 * [js-crawler](https://github.com/antivanov/js-crawler) - Web crawler for Node.JS, both HTTP and HTTPS are supported.
-* [scrape-it](https://github.com/IonicaBizau/scrape-it) - A Node.js scraper for humans.
 
 ## PHP
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.

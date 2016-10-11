@@ -58,7 +58,7 @@ A collection of awesome web crawler,spider and resources in different language
 * [go_spider](https://github.com/hu17889/go_spider) - An awesome Go concurrent Crawler(spider) framework. 
 * [dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
 * [ants-go](https://github.com/wcong/ants-go) - A open source, distributed, restful crawler engine in golang.
-
+* [scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
 
 ## Scala
 * [crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling.

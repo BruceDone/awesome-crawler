@@ -1,7 +1,7 @@
 # Awesome-crawler ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 A collection of awesome web crawler,spider and resources in different language
 
-## Python 
+## Python
 * [Scrapy](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
     * [django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
@@ -15,7 +15,7 @@ A collection of awesome web crawler,spider and resources in different language
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
 * [crawley](https://github.com/jmg/crawley) - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
-* [MSpider](https://github.com/manning23/MSpider) - A simple ,easy spider using gevent and js render. 
+* [MSpider](https://github.com/manning23/MSpider) - A simple ,easy spider using gevent and js render.
 * [brownant](https://github.com/douban/brownant) - A lightweight web data extracting framework.
 
 ## Java
@@ -30,7 +30,7 @@ A collection of awesome web crawler,spider and resources in different language
 * [Heritrix3](https://github.com/internetarchive/heritrix3) -  Extensible, web-scale, archival-quality web crawler project.
 * [SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler) - An agile, distributed crawler framework.
 
-## C# 
+## C#
 * [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extention of web content categorizer, which can saparate between the web page depending on their content.
 * [SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) - Simple spider base on mutithreading, regluar expression.
 * [DotnetSpider](https://github.com/zlzforever/DotnetSpider) - This is a cross platfrom, ligth spider develop by C#.
@@ -53,13 +53,14 @@ A collection of awesome web crawler,spider and resources in different language
 * [php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 
 ## C++
-* [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++. 
+* [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++.
 
 ## Ruby
 * [upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS(Or do more).
 * [wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 * [RubyRetriever](https://github.com/joenorton/rubyretriever) - RubyRetriever is a Web Crawler, Scraper & File Harvester.
 * [Spidr](https://github.com/postmodern/spidr) - Spider a site ,multiple domains, certain links or infinitely.
+* [mechanize](http://mechanize.rubyforge.org/) - Automated web interaction & crawling.
 
 ## R
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R.
@@ -68,7 +69,7 @@ A collection of awesome web crawler,spider and resources in different language
 * [pholcus](https://github.com/henrylee2cn/pholcus) -  A distributed, high concurrency and powerful web crawler.
 * [gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
 * [fetchbot](https://github.com/PuerkitoBio/fetchbot) - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
-* [go_spider](https://github.com/hu17889/go_spider) - An awesome Go concurrent Crawler(spider) framework. 
+* [go_spider](https://github.com/hu17889/go_spider) - An awesome Go concurrent Crawler(spider) framework.
 * [dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
 * [ants-go](https://github.com/wcong/ants-go) - A open source, distributed, restful crawler engine in golang.
 * [scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.

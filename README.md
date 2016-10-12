@@ -67,6 +67,7 @@ A collection of awesome web crawler,spider and resources in different language
 * [RubyRetriever](https://github.com/joenorton/rubyretriever) - RubyRetriever is a Web Crawler, Scraper & File Harvester.
 * [Spidr](https://github.com/postmodern/spidr) - Spider a site ,multiple domains, certain links or infinitely.
 * [Cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options, standalone or using sidekiq.
+* [mechanize](http://mechanize.rubyforge.org/) - Automated web interaction & crawling.
 
 ## R
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R.

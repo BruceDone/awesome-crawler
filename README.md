@@ -75,6 +75,9 @@ A collection of awesome web crawler,spider and resources in different language
 ## Erlang 
 * [ebot](https://github.com/matteoredaelli/ebot) - A scalable, distribuited and highly configurable web cawler.
 
+## Perl
+* [web-scraper](https://github.com/miyagawa/web-scraper) - Web Scraping Toolkit using HTML and CSS Selectors or XPath expressions.
+
 ## Go
 * [pholcus](https://github.com/henrylee2cn/pholcus) -  A distributed, high concurrency and powerful web crawler.
 * [gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.

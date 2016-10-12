@@ -31,6 +31,7 @@ A collection of awesome web crawler,spider and resources in different language
     * [Spiderman2](http://git.oschina.net/l-weiwei/Spiderman2) - A distributed  web crawler framework,support js render.
 * [Heritrix3](https://github.com/internetarchive/heritrix3) -  Extensible, web-scale, archival-quality web crawler project.
 * [SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler) - An agile, distributed crawler framework.
+* [StormCrawler](http://github.com/DigitalPebble/storm-crawler/) - An open source collection of resources for building low-latency, scalable web crawlers on Apache Storm
 
 ## C# 
 * [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extention of web content categorizer, which can saparate between the web page depending on their content.

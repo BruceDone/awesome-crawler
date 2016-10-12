@@ -27,6 +27,8 @@ A collection of awesome web crawler,spider and resources in different language
 * [Gecco](https://github.com/xtuhcy/gecco) - A easy to use lightweight web crawler
 * [WebCollector](https://github.com/CrawlScript/WebCollector) - Simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
 * [Webmagic](https://github.com/code4craft/webmagic) - A scalable crawler framework.
+* [Spiderman](https://git.oschina.net/l-weiwei/spiderman) - A scalable ,extensible, multi-threaded web crawler.
+    * [Spiderman2](http://git.oschina.net/l-weiwei/Spiderman2) - A distributed  web crawler framework,support js render.
 * [Heritrix3](https://github.com/internetarchive/heritrix3) -  Extensible, web-scale, archival-quality web crawler project.
 * [SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler) - An agile, distributed crawler framework.
 

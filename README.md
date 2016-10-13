@@ -3,7 +3,10 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## Python 
 * [Scrapy](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
-    * [django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface
+    * [django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface.
+    * [Scrapy-Redis](https://github.com/rolando/scrapy-redis) - Redis-based components for Scrapy.
+    * [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) - Uses Redis and Kafka to create a distributed on demand scraping cluster.
+    * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - Uses scrapy,redis, mongodb,graphite to create a distributed spider.
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.

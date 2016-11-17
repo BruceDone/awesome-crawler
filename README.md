@@ -20,6 +20,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
 * [MSpider](https://github.com/manning23/MSpider) - A simple ,easy spider using gevent and js render. 
 * [brownant](https://github.com/douban/brownant) - A lightweight web data extracting framework.
+* [dryscrape](https://github.com/niklasb/dryscrape) is a lightweight web scraping library for Python.
 
 ## Java
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.

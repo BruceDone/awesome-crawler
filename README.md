@@ -58,6 +58,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [js-crawler](https://github.com/antivanov/js-crawler) - Web crawler for Node.JS, both HTTP and HTTPS are supported.
 * [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraper with pagination and crawler support.
 * [node-osmosis](https://github.com/rchipka/node-osmosis) - HTML/XML parser and web scraper for Node.js.
+* [web-scraper-chrome-extension)](https://github.com/martinsbalodis/web-scraper-chrome-extension) - Web data extraction tool implemented as chrome extension.
 
 ## PHP
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.

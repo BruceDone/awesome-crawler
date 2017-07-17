@@ -22,13 +22,14 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [brownant](https://github.com/douban/brownant) - A lightweight web data extracting framework.
 * [PSpider](https://github.com/xianhu/PSpider) - A simple spider frame in Python3.
 * [Gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio for everyone.
+* [sukhoi](https://github.com/iogf/sukhoi) - Minimalist and powerful Web Crawler.
 
 ## Java
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.
     * [anthelion](https://github.com/yahoo/anthelion) - A plugin for Apache Nutch to crawl semantic annotations within HTML pages.
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.
 * [JSoup](http://jsoup.org/) - Scrapes, parses, manipulates and cleans HTML.
-* [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - Website-Specific Processors for HTML INformation eXtraction.
+* [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - Website-Specific Processors for HTML information extraction.
 * [Open Search Server](http://www.opensearchserver.com/) - A full set of search functions. Build your own indexing strategy. Parsers extract full-text data. The crawlers can index everything.
 * [Gecco](https://github.com/xtuhcy/gecco) - A easy to use lightweight web crawler
 * [WebCollector](https://github.com/CrawlScript/WebCollector) - Simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
@@ -43,7 +44,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 
 ## C# 
-* [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extention of web content categorizer, which can saparate between the web page depending on their content.
+* [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extension of web content categorizer, which can saparate between the web page depending on their content.
 * [SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) - Simple spider base on mutithreading, regluar expression.
 * [DotnetSpider](https://github.com/zlzforever/DotnetSpider) - This is a cross platfrom, ligth spider develop by C#.
 * [Abot](https://github.com/sjdirect/abot) - C# web crawler built for speed and flexibility.
@@ -58,7 +59,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [js-crawler](https://github.com/antivanov/js-crawler) - Web crawler for Node.JS, both HTTP and HTTPS are supported.
 * [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraper with pagination and crawler support.
 * [node-osmosis](https://github.com/rchipka/node-osmosis) - HTML/XML parser and web scraper for Node.js.
-* [web-scraper-chrome-extension)](https://github.com/martinsbalodis/web-scraper-chrome-extension) - Web data extraction tool implemented as chrome extension.
+* [web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension) - Web data extraction tool implemented as chrome extension.
 
 ## PHP
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.

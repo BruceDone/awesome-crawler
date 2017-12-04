@@ -118,6 +118,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
 * [creeper](https://github.com/wspl/creeper) - The Next Generation Crawler Framework (Go).
 * [colly](https://github.com/asciimoo/colly) - Fast and Elegant Scraping Framework for Gophers.
+* [Antch](https://github.com/antchfx/antch) - A fast, powerful and extensible web crawling & scraping framework for Go.
 
 ## Scala
 * [crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling.

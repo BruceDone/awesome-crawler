@@ -39,6 +39,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [PSpider](https://github.com/xianhu/PSpider) - A simple spider frame in Python3.
 * [Gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio for everyone.
 * [sukhoi](https://github.com/iogf/sukhoi) - Minimalist and powerful Web Crawler.
+* [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
 
 ## Java
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.

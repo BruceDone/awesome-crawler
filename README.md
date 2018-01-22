@@ -94,6 +94,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [httrack](https://github.com/xroche/httrack) - Copy websites to your computer.
 
 ## Ruby
+* [Nokogiri](https://github.com/sparklemotion/nokogiri) - A Rubygem providing HTML, XML, SAX, and Reader parsers with XPath and CSS selector support.
 * [upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS(Or do more).
 * [wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 * [RubyRetriever](https://github.com/joenorton/rubyretriever) - RubyRetriever is a Web Crawler, Scraper & File Harvester.

@@ -42,6 +42,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
 
 ## Java
+* [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.
     * [anthelion](https://github.com/yahoo/anthelion) - A plugin for Apache Nutch to crawl semantic annotations within HTML pages.
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.

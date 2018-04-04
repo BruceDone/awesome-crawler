@@ -40,6 +40,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [Gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio for everyone.
 * [sukhoi](https://github.com/iogf/sukhoi) - Minimalist and powerful Web Crawler.
 * [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
+* [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
 
 ## Java
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.

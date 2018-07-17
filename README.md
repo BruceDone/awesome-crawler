@@ -23,6 +23,7 @@ A collection of awesome web crawler,spider and resources in different languages.
     * [Scrapy-Redis](https://github.com/rolando/scrapy-redis) - Redis-based components for Scrapy.
     * [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) - Uses Redis and Kafka to create a distributed on demand scraping cluster.
     * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - Uses scrapy,redis, mongodb,graphite to create a distributed spider.
+    * [SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - A scalable admin ui for spider service
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.

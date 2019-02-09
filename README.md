@@ -106,6 +106,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [Spidr](https://github.com/postmodern/spidr) - Spider a site ,multiple domains, certain links or infinitely.
 * [Cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options, standalone or using sidekiq.
 * [mechanize](https://github.com/sparklemotion/mechanize) - Automated web interaction & crawling.
+* [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
 ## R
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R.

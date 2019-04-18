@@ -84,6 +84,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension) - Web data extraction tool implemented as chrome extension.
 * [supercrawler](https://github.com/brendonboshell/supercrawler) - Define custom handlers to parse content. Obeys robots.txt, rate limits and concurrency limits. 
 * [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Headless Chrome crawls with jQuery support
+* [HorizonSpider(ZeroNet)](https://github.com/v4ww/HorizonSpider) - A spider for ZeroNet
 
 ## PHP
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.

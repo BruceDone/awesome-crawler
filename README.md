@@ -128,6 +128,8 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [creeper](https://github.com/wspl/creeper) - The Next Generation Crawler Framework (Go).
 * [colly](https://github.com/asciimoo/colly) - Fast and Elegant Scraping Framework for Gophers.
 * [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping.
+* [Dataflow kit](https://github.com/slotix/dataflowkit) - Extract structured data from web pages. Web sites scraping.
+
 
 ## Scala
 * [crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling.

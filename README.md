@@ -129,6 +129,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [colly](https://github.com/asciimoo/colly) - Fast and Elegant Scraping Framework for Gophers.
 * [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping.
 * [SimpleCrawler] (https://github.com/berti92/SimpleCrawler) - Ready to use application to crawl and save any webpage as text-file. (Uses colly)
+* [Dataflow kit](https://github.com/slotix/dataflowkit) - Extract structured data from web pages. Web sites scraping.
 
 ## Scala
 * [crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling.

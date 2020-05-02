@@ -62,6 +62,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [StormCrawler](http://github.com/DigitalPebble/storm-crawler/) - An open source collection of resources for building low-latency, scalable web crawlers on Apache Storm
 * [Spark-Crawler](https://github.com/USCDataScience/sparkler) - Evolving Apache Nutch to run on Spark.
 * [webBee](https://github.com/pkwenda/webBee) - A DFS web spider.
+* [Venom](https://venom.preferred.ai/) - A multi-threaded, structured crawling framework with page validation, automatic retries, and proxy support
 
 
 ## C# 

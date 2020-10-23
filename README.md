@@ -131,7 +131,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [colly](https://github.com/asciimoo/colly) - Fast and Elegant Scraping Framework for Gophers.
 * [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping.
 * [Dataflow kit](https://github.com/slotix/dataflowkit) - Extract structured data from web pages. Web sites scraping.
-
+* [Mercator Crawler URL Frontier](https://dev.to/spacenomad/mercator-url-frontier-in-golang-15o2) - Mercator crawler URL frontier implementation in Golang
 
 ## Scala
 * [crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling.

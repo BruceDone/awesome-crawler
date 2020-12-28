@@ -71,6 +71,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [Abot](https://github.com/sjdirect/abot) - C# web crawler built for speed and flexibility.
 * [Hawk](https://github.com/ferventdesert/Hawk) - Advanced Crawler and ETL tool written in C#/WPF.
 * [SkyScraper](https://github.com/JonCanning/SkyScraper) - An asynchronous web scraper / web crawler using async / await and Reactive Extensions.
+* [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library in C#.
 
 ## JavaScript
 * [scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper.

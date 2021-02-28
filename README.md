@@ -48,7 +48,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.
     * [anthelion](https://github.com/yahoo/anthelion) - A plugin for Apache Nutch to crawl semantic annotations within HTML pages.
-* [BUBiNG](https://github.com/LAW-Unimi/BUbiNG) - The LAW next generation crawler.
+* [BUbiNG](https://github.com/LAW-Unimi/BUbiNG) - The LAW next generation crawler.
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.
 * [JSoup](http://jsoup.org/) - Scrapes, parses, manipulates and cleans HTML.
 * [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - Website-Specific Processors for HTML information extraction.

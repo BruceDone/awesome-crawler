@@ -51,6 +51,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [BUbiNG](https://github.com/LAW-Unimi/BUbiNG) - The LAW next generation crawler.
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.
 * [JSoup](http://jsoup.org/) - Scrapes, parses, manipulates and cleans HTML.
+* [JIRLBot](https://github.com/RovoMe/JIRLbot) - Implementation of the Internet Research Lab Web Crawler.
 * [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - Website-Specific Processors for HTML information extraction.
 * [Open Search Server](http://www.opensearchserver.com/) - A full set of search functions. Build your own indexing strategy. Parsers extract full-text data. The crawlers can index everything.
 * [Gecco](https://github.com/xtuhcy/gecco) - A easy to use lightweight web crawler

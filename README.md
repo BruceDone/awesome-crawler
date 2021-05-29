@@ -27,6 +27,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [CoCrawler](https://github.com/cocrawler/cocrawler) - A versatile web crawler built using modern tools and concurrency.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
+* [Exoskeleton](https://github.com/RuedigerVoigt/exoskeleton) - A framework to build polite, but tenacious crawlers / scrapers with a database backend.
 * [Scrapely](https://github.com/scrapy/scrapely) - A pure-python HTML screen-scraping library.
 * [feedparser](http://pythonhosted.org/feedparser/) - Universal feed parser.
 * [you-get](https://github.com/soimort/you-get) -  Dumb downloader that scrapes the web.

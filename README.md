@@ -87,6 +87,8 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [supercrawler](https://github.com/brendonboshell/supercrawler) - Define custom handlers to parse content. Obeys robots.txt, rate limits and concurrency limits. 
 * [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Headless Chrome crawls with jQuery support
 * [Squidwarc](https://github.com/n0tan3rd/squidwarc) - High fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
+* [cyware-threat-intelligence-crawler](https://cyware.com/cyware-threat-intel-crawler-browser-extension) - Cyware Threat Intel Crawler is a dynamic browser extension that crawls, detects, and operationalizes threat intel from your web-based content using Machine Learning (ML) and Natural Language Processing (NLP).
+
 
 ## PHP
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.

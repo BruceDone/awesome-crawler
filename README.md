@@ -30,7 +30,6 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [Scrapely](https://github.com/scrapy/scrapely) - A pure-python HTML screen-scraping library.
 * [feedparser](http://pythonhosted.org/feedparser/) - Universal feed parser.
 * [you-get](https://github.com/soimort/you-get) -  Dumb downloader that scrapes the web.
-* [Grab](http://grablib.org/) - Site scraping framework.
 * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
 * [crawley](https://github.com/jmg/crawley) - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.

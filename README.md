@@ -42,6 +42,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
 * [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
 * [aspider](https://github.com/howie6879/aspider) - An async web scraping micro-framework based on asyncio. 
+* [spider-admin-pro](https://github.com/mouday/spider-admin-pro) - 一个集爬虫Scrapy+Scrapyd爬虫项目查看 和 爬虫任务定时调度的可视化管理工具，SpiderAdmin的升级版
 
 ## Java
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.

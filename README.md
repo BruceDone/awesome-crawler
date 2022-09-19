@@ -65,7 +65,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 
 ## C# 
-* [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extension of web content categorizer, which can saparate between the web page depending on their content.
+* [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extension of web content categorizer, which can separate between the web page depending on their content.
 * [SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) - Simple spider base on mutithreading, regluar expression.
 * [DotnetSpider](https://github.com/zlzforever/DotnetSpider) - This is a cross platfrom, ligth spider develop by C#.
 * [Abot](https://github.com/sjdirect/abot) - C# web crawler built for speed and flexibility.
@@ -111,7 +111,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS(Or do more).
 * [wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 * [RubyRetriever](https://github.com/joenorton/rubyretriever) - RubyRetriever is a Web Crawler, Scraper & File Harvester.
-* [Spidr](https://github.com/postmodern/spidr) - Spider a site ,multiple domains, certain links or infinitely.
+* [Spidr](https://github.com/postmodern/spidr) - Spider a site, multiple domains, certain links or infinitely.
 * [Cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options, standalone or using sidekiq.
 * [mechanize](https://github.com/sparklemotion/mechanize) - Automated web interaction & crawling.
 

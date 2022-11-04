@@ -137,6 +137,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping.
 * [Dataflow kit](https://github.com/slotix/dataflowkit) - Extract structured data from web pages. Web sites scraping.
 * [Hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+* [WBot](https://github.com/twiny/wbot) - A configurable, thread-safe web crawler, provides a minimal interface for crawling and downloading web pages
 
 
 ## Scala

@@ -11,6 +11,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 - [C++](#c-1)
 - [C](#c-2)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [R](#r)
 - [Erlang](#erlang)
 - [Perl](#perl)
@@ -114,6 +115,10 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [Spidr](https://github.com/postmodern/spidr) - Spider a site, multiple domains, certain links or infinitely.
 * [Cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options, standalone or using sidekiq.
 * [mechanize](https://github.com/sparklemotion/mechanize) - Automated web interaction & crawling.
+
+## Rust
+* [spider](https://github.com/spider-rs/spider) - The fastest web crawler and indexer.
+* [crawler](https://github.com/a11ywatch/crawler) - A gRPC web indexer turbo charged for performance.
 
 ## R
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R.

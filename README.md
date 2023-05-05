@@ -103,6 +103,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## C++
 * [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++.
+* [SpiderSuite](https://github.com/3nock/SpiderSuite) - An advance, cross-platform web security crawler. Built using C++ Qt framework.
 
 ## C
 * [httrack](https://github.com/xroche/httrack) - Copy websites to your computer.

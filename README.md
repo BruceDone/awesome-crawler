@@ -63,6 +63,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [Spark-Crawler](https://github.com/USCDataScience/sparkler) - Evolving Apache Nutch to run on Spark.
 * [webBee](https://github.com/pkwenda/webBee) - A DFS web spider.
 * [spider-flow](https://github.com/ssssssss-team/spider-flow) - A visual spider framework, it's so good that you don't need to write any code to crawl the website.
+* [Norconex Web Crawler](https://github.com/Norconex/collector-http) - Norconex HTTP Collector is a full-featured web crawler (or spider) that can manipulate and store collected data into a repository of your choice (e.g. a search engine). Can be used as a stand alone application or be embedded into Java applications.
 
 
 ## C# 

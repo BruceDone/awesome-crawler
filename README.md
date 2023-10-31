@@ -49,6 +49,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.
     * [anthelion](https://github.com/yahoo/anthelion) - A plugin for Apache Nutch to crawl semantic annotations within HTML pages.
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.
+* [JIRLBot](https://github.com/RovoMe/JIRLbot) - Implementation of the Internet Research Lab Web Crawler.
 * [JSoup](http://jsoup.org/) - Scrapes, parses, manipulates and cleans HTML.
 * [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - Website-Specific Processors for HTML information extraction.
 * [Open Search Server](http://www.opensearchserver.com/) - A full set of search functions. Build your own indexing strategy. Parsers extract full-text data. The crawlers can index everything.

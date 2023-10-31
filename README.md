@@ -89,7 +89,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Headless Chrome crawls with jQuery support
 * [Squidwarc](https://github.com/n0tan3rd/squidwarc) - High fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
 * [crawlee](https://github.com/apify/crawlee) - A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast. 
-
+* [spidey](https://github.com/asad-haider/spidey) - A Robust web scraping tool with advanced features such as concurrent processing, CSS/XPath parsing, and custom data pipelines.
 
 ## PHP
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.

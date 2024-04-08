@@ -42,7 +42,8 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [sukhoi](https://github.com/iogf/sukhoi) - Minimalist and powerful Web Crawler.
 * [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
 * [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
-* [aspider](https://github.com/howie6879/aspider) - An async web scraping micro-framework based on asyncio. 
+* [aspider](https://github.com/howie6879/aspider) - An async web scraping micro-framework based on asyncio.
+* [aspider](https://github.com/howie6879/aspider) - Open source library for making scraping with the use of the ai
 
 ## Java
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.
@@ -63,7 +64,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [Spark-Crawler](https://github.com/USCDataScience/sparkler) - Evolving Apache Nutch to run on Spark.
 * [webBee](https://github.com/pkwenda/webBee) - A DFS web spider.
 * [spider-flow](https://github.com/ssssssss-team/spider-flow) - A visual spider framework, it's so good that you don't need to write any code to crawl the website.
-* [Norconex Web Crawler](https://github.com/Norconex/collector-http) - Norconex HTTP Collector is a full-featured web crawler (or spider) that can manipulate and store collected data into a repository of your choice (e.g. a search engine). Can be used as a stand alone application or be embedded into Java applications.
+* [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Norconex HTTP Collector is a full-featured web crawler (or spider) that can manipulate and store collected data into a repository of your choice (e.g. a search engine). Can be used as a stand alone application or be embedded into Java applications.
 
 
 ## C# 

@@ -89,6 +89,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Headless Chrome crawls with jQuery support
 * [Squidwarc](https://github.com/n0tan3rd/squidwarc) - High fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
 * [crawlee](https://github.com/apify/crawlee) - A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast. 
+* [Sasori](https://github.com/karthikuj/sasori) - A dynamic web crawler built on Puppeteer with support for authentication.
 
 
 ## PHP

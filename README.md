@@ -91,6 +91,8 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [crawlee](https://github.com/apify/crawlee) - A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast. 
 
 
+* [Xquik](https://xquik.com) - Real-time X (Twitter) data extraction platform with 20 bulk extraction tools, REST API (76 endpoints), account monitoring, and HMAC-signed webhooks.
+
 ## PHP
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.
     * [laravel-goutte](https://github.com/dweidner/laravel-goutte) - Laravel 5 Facade for Goutte.

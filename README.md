@@ -43,6 +43,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
 * [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
 * [aspider](https://github.com/howie6879/aspider) - An async web scraping micro-framework based on asyncio. 
+* [iploop-sdk](https://github.com/Iploop/proxyclaw) - Residential proxy SDK for web crawlers. 44,000+ real residential IPs across 195+ countries. One-liner proxy rotation for Scrapy, Requests, aiohttp. `pip install iploop-sdk`
 
 ## Java
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.
@@ -89,6 +90,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Headless Chrome crawls with jQuery support
 * [Squidwarc](https://github.com/n0tan3rd/squidwarc) - High fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
 * [crawlee](https://github.com/apify/crawlee) - A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast. 
+* [iploop](https://github.com/Iploop/proxyclaw) - Residential proxy SDK for Node.js crawlers. 44,000+ IPs across 195+ countries. Works with Puppeteer, Playwright, axios, node-fetch. `npm install iploop`
 
 
 ## PHP

@@ -1,6 +1,7 @@
 # Awesome-crawler ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 A collection of awesome web crawler,spider and resources in different languages.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for web crawler workflow orchestration, automated data extraction pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Python](#python)

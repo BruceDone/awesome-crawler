@@ -1,6 +1,7 @@
 # Awesome-crawler ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 A collection of awesome web crawler,spider and resources in different languages.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=BruceDone_awesome-crawler) - Follow developers on GitHub and get a feed of what they star and build.
 ## Contents
 
 - [Python](#python)

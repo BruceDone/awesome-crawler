@@ -83,6 +83,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [js-crawler](https://github.com/antivanov/js-crawler) - Web crawler for Node.JS, both HTTP and HTTPS are supported.
 * [webster](https://github.com/zhuyingda/webster) - A reliable web crawling framework which can scrape ajax and js rendered content in a web page.
 * [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraper with pagination and crawler support.
+* [SearchHive](https://searchhive.dev) - API platform for web scraping, search, and AI-powered research with free tier.
 * [node-osmosis](https://github.com/rchipka/node-osmosis) - HTML/XML parser and web scraper for Node.js.
 * [web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension) - Web data extraction tool implemented as chrome extension.
 * [supercrawler](https://github.com/brendonboshell/supercrawler) - Define custom handlers to parse content. Obeys robots.txt, rate limits and concurrency limits. 

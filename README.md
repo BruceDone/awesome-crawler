@@ -120,6 +120,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 ## Rust
 * [spider](https://github.com/spider-rs/spider) - The fastest web crawler and indexer.
 * [crawler](https://github.com/a11ywatch/crawler) - A gRPC web indexer turbo charged for performance.
+* [webclaw](https://github.com/0xMassi/webclaw) - Web content extraction that crawls and scrapes any URL into clean markdown.
 
 ## R
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R.

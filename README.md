@@ -35,6 +35,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
 * [crawley](https://github.com/jmg/crawley) - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
+* [invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright wrapper driving a patched Firefox with a realistic, consistent browser fingerprint.
 * [MSpider](https://github.com/manning23/MSpider) - A simple ,easy spider using gevent and js render. 
 * [brownant](https://github.com/douban/brownant) - A lightweight web data extracting framework.
 * [PSpider](https://github.com/xianhu/PSpider) - A simple spider frame in Python3.

@@ -143,6 +143,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping.
 * [Dataflow kit](https://github.com/slotix/dataflowkit) - Extract structured data from web pages. Web sites scraping.
 * [Hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+* [GoScrapy](https://github.com/tech-engine/goscrapy) - High perfomance webscraping framework in Go, inspired by Python's Scrapy.
 
 
 ## Scala

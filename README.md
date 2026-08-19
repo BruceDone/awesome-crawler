@@ -25,6 +25,7 @@ A collection of awesome web crawler,spider and resources in different languages.
     * [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) - Uses Redis and Kafka to create a distributed on demand scraping cluster.
     * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - Uses scrapy,redis, mongodb,graphite to create a distributed spider.
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
+* [CapMonster Cloud](https://github.com/CapMonsterCloud/capmonster-python-captcha-solver) - Asynchronous SDK for automating CAPTCHA solving in web crawlers and scraping pipelines.
 * [CoCrawler](https://github.com/cocrawler/cocrawler) - A versatile web crawler built using modern tools and concurrency.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.

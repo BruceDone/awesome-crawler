@@ -74,6 +74,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [Hawk](https://github.com/ferventdesert/Hawk) - Advanced Crawler and ETL tool written in C#/WPF.
 * [SkyScraper](https://github.com/JonCanning/SkyScraper) - An asynchronous web scraper / web crawler using async / await and Reactive Extensions.
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library in C#.
+* [CapMonster Cloud](https://github.com/CapMonsterCloud/capmonster-dotnet-captcha-solver) - Official .NET / C# SDK for CAPTCHA solving in web crawlers
 
 ## JavaScript
 * [scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper.

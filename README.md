@@ -42,7 +42,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [sukhoi](https://github.com/iogf/sukhoi) - Minimalist and powerful Web Crawler.
 * [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
 * [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
-* [aspider](https://github.com/howie6879/aspider) - An async web scraping micro-framework based on asyncio. 
+* [aspider](https://github.com/howie6879/aspider) - An async web scraping micro-framework based on asyncio.\n* [ai-stealth-crawler](https://github.com/AntonLi-PM/ai-stealth-crawler) - Universal anti-bot web crawler with TLS fingerprint impersonation, stealth Playwright cascade, and dynamic residential proxy rotation.\n* [deepseek-r1-websearch](https://github.com/AntonLi-PM/deepseek-r1-websearch) - Real-time AI search crawler and deep research engine for DeepSeek-R1 with Cloudflare Turnstile evasion.\n 
 
 ## Java
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.

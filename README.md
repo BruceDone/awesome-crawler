@@ -43,6 +43,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler. 
 * [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
 * [aspider](https://github.com/howie6879/aspider) - An async web scraping micro-framework based on asyncio. 
+* [python-price-drop-alerts](https://github.com/manishgupta412/python-price-drop-alerts) - Price-drop and back-in-stock email alerts in Python, run on a GitHub Actions schedule, with a local price-history dashboard. Emails sent via the Mailtrap Email API.
 
 ## Java
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - An easy to use web crawler for domain-specific search.
